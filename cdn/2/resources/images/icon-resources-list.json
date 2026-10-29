@@ -1,0 +1,201 @@
+{
+  "1739550667411.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739550667411.png",
+    "properties": {
+      "filename": "1739550667411.png",
+      "originalName": "Table.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739550667411.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1739550678565.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739550678565.png",
+    "properties": {
+      "filename": "1739550678565.png",
+      "originalName": "Filtres.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739550678565.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1739550686225.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739550686225.png",
+    "properties": {
+      "filename": "1739550686225.png",
+      "originalName": "Curseur.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739550686225.png",
+      "inlineSvg": false
+    }
+  },
+  "1739550701570.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739550701570.png",
+    "properties": {
+      "filename": "1739550701570.png",
+      "originalName": "Outils_avances.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739550701570.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1739550818756.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739550818756.png",
+    "properties": {
+      "filename": "1739550818756.png",
+      "originalName": "Dessiner.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739550818756.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1739550827103.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739550827103.png",
+    "properties": {
+      "filename": "1739550827103.png",
+      "originalName": "Ajout_donnees.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739550827103.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1739550857034.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739550857034.png",
+    "properties": {
+      "filename": "1739550857034.png",
+      "originalName": "Geosignet.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739550857034.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1739550866165.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739550866165.png",
+    "properties": {
+      "filename": "1739550866165.png",
+      "originalName": "Profil_topo.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739550866165.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1739998942363.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739998942363.png",
+    "properties": {
+      "filename": "1739998942363.png",
+      "originalName": "Couches_bleu_piv.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739998942363.png",
+      "color": "var(--dark-800)",
+      "size": 16,
+      "inlineSvg": false,
+      "isUploaded": true
+    }
+  },
+  "1739998951762.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739998951762.png",
+    "properties": {
+      "filename": "1739998951762.png",
+      "originalName": "Couches_bleu_foncé.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739998951762.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1759953246134.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1759953246134.png",
+    "properties": {
+      "filename": "1759953246134.png",
+      "originalName": "0888-layers.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1759953246134.png",
+      "inlineSvg": false
+    }
+  },
+  "1759953529987.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1759953529987.png",
+    "properties": {
+      "filename": "1759953529987.png",
+      "originalName": "layer.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1759953529987.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1764613990173.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1764613990173.png",
+    "properties": {
+      "filename": "1764613990173.png",
+      "originalName": "0888-layers.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1764613990173.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1764684371498.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1764684371498.png",
+    "properties": {
+      "filename": "1764684371498.png",
+      "originalName": "0888-layers.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1764684371498.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1739216569509.gif": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1739216569509.gif",
+    "properties": {
+      "filename": "1739216569509.gif",
+      "originalName": "Icône_d_onglet.gif",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1739216569509.gif",
+      "inlineSvg": false
+    }
+  },
+  "1765464582941.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1765464582941.png",
+    "properties": {
+      "filename": "1765464582941.png",
+      "originalName": "android-icon-72x72.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1765464582941.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1765479444959.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1765479444959.png",
+    "properties": {
+      "filename": "1765479444959.png",
+      "originalName": "0020-pencil5.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1765479444959.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1765813072227.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1765813072227.png",
+    "properties": {
+      "filename": "1765813072227.png",
+      "originalName": "CartoIcon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1765813072227.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1782232421658.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1782232421658.png",
+    "properties": {
+      "filename": "1782232421658.png",
+      "originalName": "Signalement.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1782232421658.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1782232487881.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1782232487881.png",
+    "properties": {
+      "filename": "1782232487881.png",
+      "originalName": "Signalement.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1782232487881.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}
